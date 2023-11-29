@@ -116,12 +116,17 @@ main{
 .info_title{
   font-size: 20px;
   font-weight: 400;
-  line-height: 30px;
   color: #757575;
 }
 .info_description{
   font-size: 20px;
   font-weight: 700;
-  line-height: 30px;
   color: #757575;
+}
+#what_i_do_description{
+  padding: 30px 150px;
+}
+
+.skills_container{
+  display: flex;
 }
