@@ -130,3 +130,10 @@ main{
 .skills_container{
   display: flex;
 }
+.skill{
+  padding: 30px;
+  gap: 24px;
+}
+.skill_description{
+ 
+}
